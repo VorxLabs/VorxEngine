@@ -1,1 +1,4 @@
 *.nim linguist-detectable=true
+sdl2/** linguist-vendored
+sdl2/** linguist-generated
+sdl2/** linguist-documentation
